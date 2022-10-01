@@ -24,7 +24,7 @@
     ·
     <a href="https://github.com/KampfCheats/Free-Val-Cheat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/KampfCheats/Free-Val-Cheat/issues">Request Feature</a>
+    <a href="https://discord.gg/4rsxRSncDE">Discord</a>
   </p>
 </div>
 
